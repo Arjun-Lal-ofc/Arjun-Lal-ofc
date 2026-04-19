@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="199px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-<h1 :page_with_curl: I'm currently learning:
+<h1 :page_with_curl: I'm currently learning: h1/>
 - Python
-- Html & css h1/>
+- Html & css
 
 <img align="center" fit="fill" alt="JPG" src="https://i.ibb.co/d0R4p42H/brb-arjun.png" />
 
