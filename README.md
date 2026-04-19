@@ -1,6 +1,6 @@
 ## Hello, I'm [ARJUN LAL](https://instagram.com/arjun_mom_z) 
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
+<img align="right" alt="GIF" height="225px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
 :page_with_curl: I'm currently learning:
 - Python
