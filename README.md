@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-## :page_with_curl: I'm currently learning: 
+ :page_with_curl: I'm currently learning: 
 - ★ Python
 - ★ Html & css
 
