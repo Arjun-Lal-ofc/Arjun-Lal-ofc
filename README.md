@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="199px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
  :page_with_curl: I'm currently learning: 
-- Python
+<h1- Python><h1/> 
 - Html & css
 
 <img align="center" fit="fill" alt="JPG" src="https://i.ibb.co/d0R4p42H/brb-arjun.png" />
