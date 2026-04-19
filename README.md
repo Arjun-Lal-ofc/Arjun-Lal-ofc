@@ -1,4 +1,4 @@
-## Hello, I'm [ARJUN LAL](https://instagram.com/arjun_mom_z) 
+# Hello, I'm [ARJUN LAL](https://instagram.com/arjun_mom_z) 
 
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
