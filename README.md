@@ -1,6 +1,6 @@
 ## Hello, I'm [ARJUN LAL](https://instagram.com/arjun_mom_z) 
 
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
 :page_with_curl: I'm currently learning:
 - Python
@@ -14,9 +14,10 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Arjun-Lal-ofc&show_icons=true&theme=radical)
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me <a href="https://wa.me/916238440754" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+
 
 
