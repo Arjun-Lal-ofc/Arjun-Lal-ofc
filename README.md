@@ -6,7 +6,7 @@
 - Python
 - Html & css
 
-<img align="center" fit="fill" alt="JPG" src="mynew.jpg" />
+<img align="center" fit="fill" alt="JPG" src="https://i.ibb.co/d0R4p42H/brb-arjun.png" />
 
 ### 📫 Follow Me On
 <a href="https://www.instagram.com/arjun_mom_z" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
