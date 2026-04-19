@@ -10,7 +10,7 @@
 
 ### 📫 Follow Me On
 <a href="https://www.instagram.com/arjun_mom_z" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://wa.me/916238440754" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Arjun-Lal-ofc&show_icons=true&theme=radical)
 
